@@ -1,4 +1,4 @@
-# GDI-Worm.Win32.Helium
+# GDI-Worm.Win32.GasHelium
 
 GAS
 _    _        _  _                      
